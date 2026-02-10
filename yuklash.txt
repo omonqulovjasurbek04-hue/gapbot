@@ -1,0 +1,3 @@
+aiogram
+edge_tts
+dotenv
